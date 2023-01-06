@@ -1,0 +1,9 @@
+configuration {
+  display-drun: "";
+  drun-display-format: "{name}";
+  font: "Cousine Bold 12";
+  icon-theme: "La-Capitaine";
+  modi: "drun";
+}
+
+@theme "~/.config/rofi/theme.rasi"
